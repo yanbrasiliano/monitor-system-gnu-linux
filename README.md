@@ -6,7 +6,7 @@ This script was tested and run on an Acer Nitro. In some cases, it may be necess
 
 ## Features
 
-- **CPU Temperature Monitoring**: Alerts if the CPU temperature exceeds a set threshold.
+- **CPU and GPU Temperature Monitoring**: Alerts if the CPU temperature exceeds a set threshold.
 - **Memory Usage Monitoring**: Alerts if the memory usage exceeds a set threshold.
 - **Disk Space Monitoring**: Displays the current disk space usage.
 
